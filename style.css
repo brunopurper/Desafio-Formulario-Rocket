@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    z-index: 1;
+    background-color: #535971;
+    height: 436px;
+}
